@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Flo Mouse.kmmacros</key>
+		<data>
+		t6RNGwEsJe401mkD17q5m/pyUCk=
+		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
 		ABGXq8W5/ftelp67Qzph297zBow=
@@ -14,7 +18,7 @@
 		</data>
 		<key>Resources/applet.rsrc</key>
 		<data>
-		30A4KnY2/h4RSJOwPcyxxAgsL4A=
+		Ji32WU/VCwjTmOWAEjmQGkhZxJ0=
 		</data>
 		<key>Resources/description.rtfd/TXT.rtf</key>
 		<data>
@@ -23,6 +27,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Resources/Flo Mouse.kmmacros</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t6RNGwEsJe401mkD17q5m/pyUCk=
+			</data>
+			<key>hash2</key>
+			<data>
+			YkKz23vuqfMOY1I+K1GAhZa001vFbli4B/2F8t/HuLY=
+			</data>
+		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
@@ -49,11 +64,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			30A4KnY2/h4RSJOwPcyxxAgsL4A=
+			Ji32WU/VCwjTmOWAEjmQGkhZxJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			RON8BK6lMxzdu9TLxzlizlysK3PY/h/xAOBMJWjSiGg=
+			F6mfW+FHTzwoz4onjVSjxofm6xh6uwIFbiKT/p5YJUU=
 			</data>
 		</dict>
 		<key>Resources/description.rtfd/TXT.rtf</key>
